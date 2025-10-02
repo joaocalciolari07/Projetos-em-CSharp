@@ -1,0 +1,46 @@
+using System;
+
+public class Pais
+{
+    public string Nome;
+    public string Capital;
+    public double Areakm;
+
+    public void MostrarDados()
+    {
+        Console.WriteLine($"País: {Nome} | Capital: {Capital} | Área: {Areakm}");
+    }
+
+    // Método para comparar se dois países são iguais
+    public bool Igual(Pais outro)
+    {
+        return this.Nome == outro.Nome &&
+               this.Capital == outro.Capital &&
+               this.Areakm == outro.Areakm;
+    }
+}
+
+public class Program
+{
+    public static void Main()
+    {
+        Pais Brasil = new Pais();
+        Brasil.Nome = "Brasil";
+        Brasil.Capital = "Brasilia";
+        Brasil.Areakm = 8516000;
+
+        Pais Argentina = new Pais();
+        Argentina.Nome = "Brasil"; // <- Coloquei igual ao Brasil para dar TRUE
+        Argentina.Capital = "Brasilia";
+        Argentina.Areakm = 8516000;
+
+        Brasil.MostrarDados();
+        Argentina.MostrarDados();
+
+        // Comparando
+        if (Argentina.Igual(Brasil))
+            Console.WriteLine("Eles são iguais!");
+        else
+            Console.WriteLine("Eles não são iguais!");
+    }
+}
