@@ -1,0 +1,32 @@
+using System;
+
+public class Carro
+{
+    // Auto-properties: o C# cria o campo privado automaticamente
+    public string Marca { get; set; }
+    public string Modelo { get; set; }
+    public int Ano { get; set; }
+    public double Preco { get; set; }
+	
+}
+
+class Program
+{
+    static void Main()
+    {
+        // Criando o objeto
+        Carro c = new Carro();
+
+        // Atribuindo valores usando o set
+        c.Marca = "Honda";
+        c.Modelo = "Civic";
+        c.Ano = 2022;
+        c.Preco = 130000;
+
+        // Lendo valores usando o get
+        Console.WriteLine($"Marca: {c.Marca}");
+        Console.WriteLine($"Modelo: {c.Modelo}");
+        Console.WriteLine($"Ano: {c.Ano}");
+        Console.WriteLine($"Preço: {c.Preco}");
+    }
+}
