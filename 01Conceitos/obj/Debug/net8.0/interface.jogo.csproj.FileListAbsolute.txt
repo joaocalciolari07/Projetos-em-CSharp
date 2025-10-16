@@ -1,0 +1,14 @@
+/home/admlinux/Área de trabalho/Orientação a objeto/01Conceitos/obj/Debug/net8.0/interface.jogo.GeneratedMSBuildEditorConfig.editorconfig
+/home/admlinux/Área de trabalho/Orientação a objeto/01Conceitos/obj/Debug/net8.0/interface.jogo.AssemblyInfoInputs.cache
+/home/admlinux/Área de trabalho/Orientação a objeto/01Conceitos/obj/Debug/net8.0/interface.jogo.AssemblyInfo.cs
+/home/admlinux/Área de trabalho/Orientação a objeto/01Conceitos/obj/Debug/net8.0/interface.jogo.csproj.CoreCompileInputs.cache
+/home/admlinux/Área de trabalho/Orientação a objeto/01Conceitos/bin/Debug/net8.0/interface.jogo
+/home/admlinux/Área de trabalho/Orientação a objeto/01Conceitos/bin/Debug/net8.0/interface.jogo.deps.json
+/home/admlinux/Área de trabalho/Orientação a objeto/01Conceitos/bin/Debug/net8.0/interface.jogo.runtimeconfig.json
+/home/admlinux/Área de trabalho/Orientação a objeto/01Conceitos/bin/Debug/net8.0/interface.jogo.dll
+/home/admlinux/Área de trabalho/Orientação a objeto/01Conceitos/bin/Debug/net8.0/interface.jogo.pdb
+/home/admlinux/Área de trabalho/Orientação a objeto/01Conceitos/obj/Debug/net8.0/interface.jogo.dll
+/home/admlinux/Área de trabalho/Orientação a objeto/01Conceitos/obj/Debug/net8.0/refint/interface.jogo.dll
+/home/admlinux/Área de trabalho/Orientação a objeto/01Conceitos/obj/Debug/net8.0/interface.jogo.pdb
+/home/admlinux/Área de trabalho/Orientação a objeto/01Conceitos/obj/Debug/net8.0/interface.jogo.genruntimeconfig.cache
+/home/admlinux/Área de trabalho/Orientação a objeto/01Conceitos/obj/Debug/net8.0/ref/interface.jogo.dll

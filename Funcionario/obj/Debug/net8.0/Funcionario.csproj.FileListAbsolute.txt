@@ -1,0 +1,14 @@
+/home/admlinux/Área de trabalho/Orientação a objeto/Funcionario/bin/Debug/net8.0/Funcionario
+/home/admlinux/Área de trabalho/Orientação a objeto/Funcionario/bin/Debug/net8.0/Funcionario.deps.json
+/home/admlinux/Área de trabalho/Orientação a objeto/Funcionario/bin/Debug/net8.0/Funcionario.runtimeconfig.json
+/home/admlinux/Área de trabalho/Orientação a objeto/Funcionario/bin/Debug/net8.0/Funcionario.dll
+/home/admlinux/Área de trabalho/Orientação a objeto/Funcionario/bin/Debug/net8.0/Funcionario.pdb
+/home/admlinux/Área de trabalho/Orientação a objeto/Funcionario/obj/Debug/net8.0/Funcionario.GeneratedMSBuildEditorConfig.editorconfig
+/home/admlinux/Área de trabalho/Orientação a objeto/Funcionario/obj/Debug/net8.0/Funcionario.AssemblyInfoInputs.cache
+/home/admlinux/Área de trabalho/Orientação a objeto/Funcionario/obj/Debug/net8.0/Funcionario.AssemblyInfo.cs
+/home/admlinux/Área de trabalho/Orientação a objeto/Funcionario/obj/Debug/net8.0/Funcionario.csproj.CoreCompileInputs.cache
+/home/admlinux/Área de trabalho/Orientação a objeto/Funcionario/obj/Debug/net8.0/Funcionario.dll
+/home/admlinux/Área de trabalho/Orientação a objeto/Funcionario/obj/Debug/net8.0/refint/Funcionario.dll
+/home/admlinux/Área de trabalho/Orientação a objeto/Funcionario/obj/Debug/net8.0/Funcionario.pdb
+/home/admlinux/Área de trabalho/Orientação a objeto/Funcionario/obj/Debug/net8.0/Funcionario.genruntimeconfig.cache
+/home/admlinux/Área de trabalho/Orientação a objeto/Funcionario/obj/Debug/net8.0/ref/Funcionario.dll

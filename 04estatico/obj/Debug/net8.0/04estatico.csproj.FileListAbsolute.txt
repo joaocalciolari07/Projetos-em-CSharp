@@ -1,0 +1,14 @@
+/home/admlinux/Área de trabalho/Orientação a objeto/04estatico/bin/Debug/net8.0/04estatico
+/home/admlinux/Área de trabalho/Orientação a objeto/04estatico/bin/Debug/net8.0/04estatico.deps.json
+/home/admlinux/Área de trabalho/Orientação a objeto/04estatico/bin/Debug/net8.0/04estatico.runtimeconfig.json
+/home/admlinux/Área de trabalho/Orientação a objeto/04estatico/bin/Debug/net8.0/04estatico.dll
+/home/admlinux/Área de trabalho/Orientação a objeto/04estatico/bin/Debug/net8.0/04estatico.pdb
+/home/admlinux/Área de trabalho/Orientação a objeto/04estatico/obj/Debug/net8.0/04estatico.GeneratedMSBuildEditorConfig.editorconfig
+/home/admlinux/Área de trabalho/Orientação a objeto/04estatico/obj/Debug/net8.0/04estatico.AssemblyInfoInputs.cache
+/home/admlinux/Área de trabalho/Orientação a objeto/04estatico/obj/Debug/net8.0/04estatico.AssemblyInfo.cs
+/home/admlinux/Área de trabalho/Orientação a objeto/04estatico/obj/Debug/net8.0/04estatico.csproj.CoreCompileInputs.cache
+/home/admlinux/Área de trabalho/Orientação a objeto/04estatico/obj/Debug/net8.0/04estatico.dll
+/home/admlinux/Área de trabalho/Orientação a objeto/04estatico/obj/Debug/net8.0/refint/04estatico.dll
+/home/admlinux/Área de trabalho/Orientação a objeto/04estatico/obj/Debug/net8.0/04estatico.pdb
+/home/admlinux/Área de trabalho/Orientação a objeto/04estatico/obj/Debug/net8.0/04estatico.genruntimeconfig.cache
+/home/admlinux/Área de trabalho/Orientação a objeto/04estatico/obj/Debug/net8.0/ref/04estatico.dll

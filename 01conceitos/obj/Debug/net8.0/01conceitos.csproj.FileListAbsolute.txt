@@ -1,0 +1,14 @@
+/home/admlinux/Área de trabalho/Orientação a objeto/01conceitos/bin/Debug/net8.0/01conceitos
+/home/admlinux/Área de trabalho/Orientação a objeto/01conceitos/bin/Debug/net8.0/01conceitos.deps.json
+/home/admlinux/Área de trabalho/Orientação a objeto/01conceitos/bin/Debug/net8.0/01conceitos.runtimeconfig.json
+/home/admlinux/Área de trabalho/Orientação a objeto/01conceitos/bin/Debug/net8.0/01conceitos.dll
+/home/admlinux/Área de trabalho/Orientação a objeto/01conceitos/bin/Debug/net8.0/01conceitos.pdb
+/home/admlinux/Área de trabalho/Orientação a objeto/01conceitos/obj/Debug/net8.0/01conceitos.GeneratedMSBuildEditorConfig.editorconfig
+/home/admlinux/Área de trabalho/Orientação a objeto/01conceitos/obj/Debug/net8.0/01conceitos.AssemblyInfoInputs.cache
+/home/admlinux/Área de trabalho/Orientação a objeto/01conceitos/obj/Debug/net8.0/01conceitos.AssemblyInfo.cs
+/home/admlinux/Área de trabalho/Orientação a objeto/01conceitos/obj/Debug/net8.0/01conceitos.csproj.CoreCompileInputs.cache
+/home/admlinux/Área de trabalho/Orientação a objeto/01conceitos/obj/Debug/net8.0/01conceitos.dll
+/home/admlinux/Área de trabalho/Orientação a objeto/01conceitos/obj/Debug/net8.0/refint/01conceitos.dll
+/home/admlinux/Área de trabalho/Orientação a objeto/01conceitos/obj/Debug/net8.0/01conceitos.pdb
+/home/admlinux/Área de trabalho/Orientação a objeto/01conceitos/obj/Debug/net8.0/01conceitos.genruntimeconfig.cache
+/home/admlinux/Área de trabalho/Orientação a objeto/01conceitos/obj/Debug/net8.0/ref/01conceitos.dll

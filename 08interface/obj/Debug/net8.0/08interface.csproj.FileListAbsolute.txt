@@ -1,0 +1,14 @@
+/home/admlinux/Área de trabalho/Orientação a objeto/08interface/bin/Debug/net8.0/08interface
+/home/admlinux/Área de trabalho/Orientação a objeto/08interface/bin/Debug/net8.0/08interface.deps.json
+/home/admlinux/Área de trabalho/Orientação a objeto/08interface/bin/Debug/net8.0/08interface.runtimeconfig.json
+/home/admlinux/Área de trabalho/Orientação a objeto/08interface/bin/Debug/net8.0/08interface.dll
+/home/admlinux/Área de trabalho/Orientação a objeto/08interface/bin/Debug/net8.0/08interface.pdb
+/home/admlinux/Área de trabalho/Orientação a objeto/08interface/obj/Debug/net8.0/08interface.GeneratedMSBuildEditorConfig.editorconfig
+/home/admlinux/Área de trabalho/Orientação a objeto/08interface/obj/Debug/net8.0/08interface.AssemblyInfoInputs.cache
+/home/admlinux/Área de trabalho/Orientação a objeto/08interface/obj/Debug/net8.0/08interface.AssemblyInfo.cs
+/home/admlinux/Área de trabalho/Orientação a objeto/08interface/obj/Debug/net8.0/08interface.csproj.CoreCompileInputs.cache
+/home/admlinux/Área de trabalho/Orientação a objeto/08interface/obj/Debug/net8.0/08interface.dll
+/home/admlinux/Área de trabalho/Orientação a objeto/08interface/obj/Debug/net8.0/refint/08interface.dll
+/home/admlinux/Área de trabalho/Orientação a objeto/08interface/obj/Debug/net8.0/08interface.pdb
+/home/admlinux/Área de trabalho/Orientação a objeto/08interface/obj/Debug/net8.0/08interface.genruntimeconfig.cache
+/home/admlinux/Área de trabalho/Orientação a objeto/08interface/obj/Debug/net8.0/ref/08interface.dll

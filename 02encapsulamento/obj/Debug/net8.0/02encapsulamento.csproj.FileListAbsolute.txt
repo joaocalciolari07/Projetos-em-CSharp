@@ -1,0 +1,14 @@
+/home/admlinux/Área de trabalho/Orientação a objeto/02encapsulamento/obj/Debug/net8.0/02encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+/home/admlinux/Área de trabalho/Orientação a objeto/02encapsulamento/obj/Debug/net8.0/02encapsulamento.AssemblyInfoInputs.cache
+/home/admlinux/Área de trabalho/Orientação a objeto/02encapsulamento/obj/Debug/net8.0/02encapsulamento.AssemblyInfo.cs
+/home/admlinux/Área de trabalho/Orientação a objeto/02encapsulamento/obj/Debug/net8.0/02encapsulamento.csproj.CoreCompileInputs.cache
+/home/admlinux/Área de trabalho/Orientação a objeto/02encapsulamento/bin/Debug/net8.0/02encapsulamento
+/home/admlinux/Área de trabalho/Orientação a objeto/02encapsulamento/bin/Debug/net8.0/02encapsulamento.deps.json
+/home/admlinux/Área de trabalho/Orientação a objeto/02encapsulamento/bin/Debug/net8.0/02encapsulamento.runtimeconfig.json
+/home/admlinux/Área de trabalho/Orientação a objeto/02encapsulamento/bin/Debug/net8.0/02encapsulamento.dll
+/home/admlinux/Área de trabalho/Orientação a objeto/02encapsulamento/bin/Debug/net8.0/02encapsulamento.pdb
+/home/admlinux/Área de trabalho/Orientação a objeto/02encapsulamento/obj/Debug/net8.0/02encapsulamento.dll
+/home/admlinux/Área de trabalho/Orientação a objeto/02encapsulamento/obj/Debug/net8.0/refint/02encapsulamento.dll
+/home/admlinux/Área de trabalho/Orientação a objeto/02encapsulamento/obj/Debug/net8.0/02encapsulamento.pdb
+/home/admlinux/Área de trabalho/Orientação a objeto/02encapsulamento/obj/Debug/net8.0/02encapsulamento.genruntimeconfig.cache
+/home/admlinux/Área de trabalho/Orientação a objeto/02encapsulamento/obj/Debug/net8.0/ref/02encapsulamento.dll

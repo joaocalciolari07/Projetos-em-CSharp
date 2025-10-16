@@ -1,0 +1,14 @@
+/home/admlinux/Área de trabalho/Orientação a objeto/05heranca/bin/Debug/net8.0/05heranca
+/home/admlinux/Área de trabalho/Orientação a objeto/05heranca/bin/Debug/net8.0/05heranca.deps.json
+/home/admlinux/Área de trabalho/Orientação a objeto/05heranca/bin/Debug/net8.0/05heranca.runtimeconfig.json
+/home/admlinux/Área de trabalho/Orientação a objeto/05heranca/bin/Debug/net8.0/05heranca.dll
+/home/admlinux/Área de trabalho/Orientação a objeto/05heranca/bin/Debug/net8.0/05heranca.pdb
+/home/admlinux/Área de trabalho/Orientação a objeto/05heranca/obj/Debug/net8.0/05heranca.GeneratedMSBuildEditorConfig.editorconfig
+/home/admlinux/Área de trabalho/Orientação a objeto/05heranca/obj/Debug/net8.0/05heranca.AssemblyInfoInputs.cache
+/home/admlinux/Área de trabalho/Orientação a objeto/05heranca/obj/Debug/net8.0/05heranca.AssemblyInfo.cs
+/home/admlinux/Área de trabalho/Orientação a objeto/05heranca/obj/Debug/net8.0/05heranca.csproj.CoreCompileInputs.cache
+/home/admlinux/Área de trabalho/Orientação a objeto/05heranca/obj/Debug/net8.0/05heranca.dll
+/home/admlinux/Área de trabalho/Orientação a objeto/05heranca/obj/Debug/net8.0/refint/05heranca.dll
+/home/admlinux/Área de trabalho/Orientação a objeto/05heranca/obj/Debug/net8.0/05heranca.pdb
+/home/admlinux/Área de trabalho/Orientação a objeto/05heranca/obj/Debug/net8.0/05heranca.genruntimeconfig.cache
+/home/admlinux/Área de trabalho/Orientação a objeto/05heranca/obj/Debug/net8.0/ref/05heranca.dll
