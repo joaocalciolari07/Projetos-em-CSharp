@@ -1,0 +1,82 @@
+using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Text.Json;
+using System.Windows.Forms;
+
+namespace TaskMate
+{
+    public partial class Form1 : Form
+    {
+        private List<TaskItem> tasks = new List<TaskItem>();
+        private string filePath = "tasks.json";
+
+        public Form1()
+        {
+            InitializeComponent();
+            LoadTasks();
+            UpdateTaskList();
+        }
+
+        private void btnAdd_Click(object sender, EventArgs e)
+        {
+            if (!string.IsNullOrWhiteSpace(txtTask.Text))
+            {
+                tasks.Add(new TaskItem { Description = txtTask.Text, IsCompleted = false });
+                txtTask.Clear();
+                SaveTasks();
+                UpdateTaskList();
+            }
+        }
+
+        private void UpdateTaskList()
+        {
+            lstTasks.Items.Clear();
+            foreach (var task in tasks)
+            {
+                lstTasks.Items.Add($"{(task.IsCompleted ? "[✔]" : "[ ]")} {task.Description}");
+            }
+        }
+
+        private void lstTasks_DoubleClick(object sender, EventArgs e)
+        {
+            int index = lstTasks.SelectedIndex;
+            if (index >= 0 && index < tasks.Count)
+            {
+                tasks[index].IsCompleted = !tasks[index].IsCompleted;
+                SaveTasks();
+                UpdateTaskList();
+            }
+        }
+
+        private void btnRemove_Click(object sender, EventArgs e)
+        {
+            int index = lstTasks.SelectedIndex;
+            if (index >= 0 && index < tasks.Count)
+            {
+                tasks.RemoveAt(index);
+                SaveTasks();
+                UpdateTaskList();
+            }
+        }
+
+        private void SaveTasks()
+        {
+            File.WriteAllText(filePath, JsonSerializer.Serialize(tasks));
+        }
+
+        private void LoadTasks()
+        {
+            if (File.Exists(filePath))
+            {
+                tasks = JsonSerializer.Deserialize<List<TaskItem>>(File.ReadAllText(filePath));
+            }
+        }
+    }
+
+    public class TaskItem
+    {
+        public string Description { get; set; }
+        public bool IsCompleted { get; set; }
+    }
+}
