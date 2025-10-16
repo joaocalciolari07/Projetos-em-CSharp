@@ -1,0 +1,14 @@
+/home/admlinux/Área de trabalho/Orientação a objeto/03construtor/obj/Debug/net8.0/03construtor.GeneratedMSBuildEditorConfig.editorconfig
+/home/admlinux/Área de trabalho/Orientação a objeto/03construtor/obj/Debug/net8.0/03construtor.AssemblyInfoInputs.cache
+/home/admlinux/Área de trabalho/Orientação a objeto/03construtor/obj/Debug/net8.0/03construtor.AssemblyInfo.cs
+/home/admlinux/Área de trabalho/Orientação a objeto/03construtor/obj/Debug/net8.0/03construtor.csproj.CoreCompileInputs.cache
+/home/admlinux/Área de trabalho/Orientação a objeto/03construtor/bin/Debug/net8.0/03construtor
+/home/admlinux/Área de trabalho/Orientação a objeto/03construtor/bin/Debug/net8.0/03construtor.deps.json
+/home/admlinux/Área de trabalho/Orientação a objeto/03construtor/bin/Debug/net8.0/03construtor.runtimeconfig.json
+/home/admlinux/Área de trabalho/Orientação a objeto/03construtor/bin/Debug/net8.0/03construtor.dll
+/home/admlinux/Área de trabalho/Orientação a objeto/03construtor/bin/Debug/net8.0/03construtor.pdb
+/home/admlinux/Área de trabalho/Orientação a objeto/03construtor/obj/Debug/net8.0/03construtor.dll
+/home/admlinux/Área de trabalho/Orientação a objeto/03construtor/obj/Debug/net8.0/refint/03construtor.dll
+/home/admlinux/Área de trabalho/Orientação a objeto/03construtor/obj/Debug/net8.0/03construtor.pdb
+/home/admlinux/Área de trabalho/Orientação a objeto/03construtor/obj/Debug/net8.0/03construtor.genruntimeconfig.cache
+/home/admlinux/Área de trabalho/Orientação a objeto/03construtor/obj/Debug/net8.0/ref/03construtor.dll

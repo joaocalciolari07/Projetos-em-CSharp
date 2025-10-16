@@ -1,0 +1,14 @@
+/home/admlinux/Área de trabalho/Orientação a objeto/01curso/bin/Debug/net8.0/01curso
+/home/admlinux/Área de trabalho/Orientação a objeto/01curso/bin/Debug/net8.0/01curso.deps.json
+/home/admlinux/Área de trabalho/Orientação a objeto/01curso/bin/Debug/net8.0/01curso.runtimeconfig.json
+/home/admlinux/Área de trabalho/Orientação a objeto/01curso/bin/Debug/net8.0/01curso.dll
+/home/admlinux/Área de trabalho/Orientação a objeto/01curso/bin/Debug/net8.0/01curso.pdb
+/home/admlinux/Área de trabalho/Orientação a objeto/01curso/obj/Debug/net8.0/01curso.GeneratedMSBuildEditorConfig.editorconfig
+/home/admlinux/Área de trabalho/Orientação a objeto/01curso/obj/Debug/net8.0/01curso.AssemblyInfoInputs.cache
+/home/admlinux/Área de trabalho/Orientação a objeto/01curso/obj/Debug/net8.0/01curso.AssemblyInfo.cs
+/home/admlinux/Área de trabalho/Orientação a objeto/01curso/obj/Debug/net8.0/01curso.csproj.CoreCompileInputs.cache
+/home/admlinux/Área de trabalho/Orientação a objeto/01curso/obj/Debug/net8.0/01curso.dll
+/home/admlinux/Área de trabalho/Orientação a objeto/01curso/obj/Debug/net8.0/refint/01curso.dll
+/home/admlinux/Área de trabalho/Orientação a objeto/01curso/obj/Debug/net8.0/01curso.pdb
+/home/admlinux/Área de trabalho/Orientação a objeto/01curso/obj/Debug/net8.0/01curso.genruntimeconfig.cache
+/home/admlinux/Área de trabalho/Orientação a objeto/01curso/obj/Debug/net8.0/ref/01curso.dll

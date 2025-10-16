@@ -1,0 +1,14 @@
+/home/admlinux/Área de trabalho/Orientação a objeto/07abstracao/obj/Debug/net8.0/07abstracao.GeneratedMSBuildEditorConfig.editorconfig
+/home/admlinux/Área de trabalho/Orientação a objeto/07abstracao/obj/Debug/net8.0/07abstracao.AssemblyInfoInputs.cache
+/home/admlinux/Área de trabalho/Orientação a objeto/07abstracao/obj/Debug/net8.0/07abstracao.AssemblyInfo.cs
+/home/admlinux/Área de trabalho/Orientação a objeto/07abstracao/obj/Debug/net8.0/07abstracao.csproj.CoreCompileInputs.cache
+/home/admlinux/Área de trabalho/Orientação a objeto/07abstracao/bin/Debug/net8.0/07abstracao
+/home/admlinux/Área de trabalho/Orientação a objeto/07abstracao/bin/Debug/net8.0/07abstracao.deps.json
+/home/admlinux/Área de trabalho/Orientação a objeto/07abstracao/bin/Debug/net8.0/07abstracao.runtimeconfig.json
+/home/admlinux/Área de trabalho/Orientação a objeto/07abstracao/bin/Debug/net8.0/07abstracao.dll
+/home/admlinux/Área de trabalho/Orientação a objeto/07abstracao/bin/Debug/net8.0/07abstracao.pdb
+/home/admlinux/Área de trabalho/Orientação a objeto/07abstracao/obj/Debug/net8.0/07abstracao.dll
+/home/admlinux/Área de trabalho/Orientação a objeto/07abstracao/obj/Debug/net8.0/refint/07abstracao.dll
+/home/admlinux/Área de trabalho/Orientação a objeto/07abstracao/obj/Debug/net8.0/07abstracao.pdb
+/home/admlinux/Área de trabalho/Orientação a objeto/07abstracao/obj/Debug/net8.0/07abstracao.genruntimeconfig.cache
+/home/admlinux/Área de trabalho/Orientação a objeto/07abstracao/obj/Debug/net8.0/ref/07abstracao.dll
